@@ -11718,15 +11718,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/y9j4lwnm",
-    "video": "https://www.youtube.com/watch?v=VXk9j4ulSsk",
-    "platform": "PC",
-    "submitted": "02/07/2024",
-    "time": "0:04:815",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_ets/run/y8w560dy",
     "video": "https://youtu.be/HTpCgecHXlo",
     "platform": "PC",
@@ -15557,6 +15548,24 @@
     "platform": "PC",
     "submitted": "14/10/2025",
     "time": "0:29:490",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/z0k1qe8m",
+    "video": "https://www.youtube.com/watch?v=GlqApoqpw7A",
+    "platform": "PC",
+    "submitted": "15/10/2025",
+    "time": "0:53:287",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/zn5rx8lz",
+    "video": "https://www.youtube.com/watch?v=GlqApoqpw7A",
+    "platform": "PC",
+    "submitted": "15/10/2025",
+    "time": "0:53:287",
     "run_type": "IL",
     "MS": "Completed"
   }

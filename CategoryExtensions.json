@@ -63639,15 +63639,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/mrd0v5dz",
-    "video": "https://youtu.be/VlHgElZO0R4",
-    "platform": "PC",
-    "submitted": "07/08/2025",
-    "time": "0:43:177",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/yljp2r2m",
     "video": "https://youtu.be/W-WcfyHNnmM",
     "platform": "PC",
@@ -64026,15 +64017,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/yv7eerey",
-    "video": "https://youtu.be/fRI6krxwG1g",
-    "platform": "PS5",
-    "submitted": "26/08/2025",
-    "time": "0:42:960",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y6jwwq1m",
     "video": "https://youtu.be/IZcGqvtIB34",
     "platform": "PC",
@@ -64067,15 +64049,6 @@
     "platform": "PC",
     "submitted": "26/08/2025",
     "time": "3:06:195",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/me2d5o2m",
-    "video": "https://youtu.be/zKOTn5GC0u8?si=0_DJdPBRKKjOhums",
-    "platform": "PS5",
-    "submitted": "27/08/2025",
-    "time": "1:05:685",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -64742,6 +64715,24 @@
     "platform": "PC",
     "submitted": "13/10/2025",
     "time": "1:20:250",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zp54xwxy",
+    "video": "https://youtu.be/B09KOMl0RFI",
+    "platform": "PC",
+    "submitted": "15/10/2025",
+    "time": "0:39:930",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/ydo6ljvz",
+    "video": "https://youtu.be/B09KOMl0RFI",
+    "platform": "PC",
+    "submitted": "15/10/2025",
+    "time": "0:39:930",
     "run_type": "IL",
     "MS": "Completed"
   }
