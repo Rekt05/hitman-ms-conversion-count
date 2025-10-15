@@ -36,6 +36,6 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add *.json
           git commit -m "Auto update JSON files"
-          git push origin main
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Rekt05/hitman-ms-conversion-count.git HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
