@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Unconverted MS Runs Finder</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <h1>Unconverted MS Runs Finder</h1>
+
+      <nav class="boards">
+        <button class="board-btn active" data-file="MainBoard.json">
+          Main Board
+        </button>
+        <button class="board-btn" data-file="CategoryExtensions.json">
+          Category Extensions
+        </button>
+        <button class="board-btn" data-file="ElusiveTargets.json">
+          Elusive Targets
+        </button>
+        <button class="board-btn" data-file="Escalations.json">
+          Escalations
+        </button>
+      </nav>
+    </header>
+
+    <main class="container">
+      <section class="stats card">
+        <h2>Stats</h2>
+        <ul class="stats-list">
+          <li>Runs Count: <span id="runsCount"></span></li>
+          <li>FG count: <span id="fgCount"></span></li>
+          <li>IL Count: <span id="ilCount"></span></li>
+          <li>IL w MS count: <span id="ilMsCount"></span></li>
+          <li>IL w/o MS count: <span id="ilNoMsCount"></span></li>
+        </ul>
+      </section>
+
+      <section class="random card">
+        <h2>Find a random run without MS</h2>
+        <div class="controls">
+          <button id="pickRandom">Find Random Run</button>
+        </div>
+
+        <div id="result" class="result">
+          <p class="hint"></p>
+        </div>
+      </section>
+
+      <section class="info card">
+        <p>
+          This site scrapes the SRC boards every day at 10pm UTC so the stats
+          shoud be updated a few minutes after that. Github
+        </p>
+      </section>
+    </main>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>

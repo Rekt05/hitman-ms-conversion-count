@@ -1,0 +1,91 @@
+body {
+  background: #111;
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+.site-header {
+  text-align: center;
+  padding: 1rem;
+  background: #111;
+  border-bottom: 2px solid #444;
+}
+
+.boards {
+  margin-top: 1rem;
+}
+
+.board-btn {
+  background: #333;
+  color: #eee;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  margin: 0.3rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.board-btn.active,
+.board-btn:hover {
+  background: #555;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+
+.card {
+  background: #1c1c1c;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.stats-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.stats-list li {
+  margin: 0.5rem 0;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+#pickRandom {
+  background: #2e7d32;
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#pickRandom:hover {
+  background: #388e3c;
+}
+
+.result {
+  text-align: center;
+  font-size: 1.1rem;
+}
+
+.result a {
+  color: #4fc3f7;
+  text-decoration: none;
+}
+
+.result a:hover {
+  text-decoration: underline;
+}
