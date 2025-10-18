@@ -45279,24 +45279,6 @@
     "MS": "Unconverted"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zx8jl65m",
-    "video": "https://youtu.be/0YWwYlecmAI",
-    "platform": "PS4",
-    "submitted": "13/10/2022",
-    "time": "0:41",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/m3xw6n4m",
-    "video": "https://youtu.be/0YWwYlecmAI",
-    "platform": "PS4",
-    "submitted": "13/10/2022",
-    "time": "0:41",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y6xg006y",
     "video": "https://www.youtube.com/watch?v=Y64dtirx7YY",
     "platform": "PC",
@@ -45347,24 +45329,6 @@
     "platform": "PC",
     "submitted": "15/10/2022",
     "time": "1:38",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/z1gv9n7z",
-    "video": "https://youtu.be/pv3ZCuyVhbY",
-    "platform": "PS4",
-    "submitted": "15/10/2022",
-    "time": "1:08",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/mkdop1xy",
-    "video": "https://youtu.be/pv3ZCuyVhbY",
-    "platform": "PS4",
-    "submitted": "15/10/2022",
-    "time": "1:08",
     "run_type": "IL",
     "MS": "Unconverted"
   },
@@ -49550,15 +49514,6 @@
     "platform": "PC",
     "submitted": "17/02/2023",
     "time": "0:09",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/zqejjr9z",
-    "video": "https://youtu.be/fQcc1_T2t3k",
-    "platform": "PS4",
-    "submitted": "18/02/2023",
-    "time": "0:37",
     "run_type": "IL",
     "MS": "Unconverted"
   },
@@ -64733,6 +64688,15 @@
     "platform": "PC",
     "submitted": "15/10/2025",
     "time": "0:39:930",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/yj7lkqgy",
+    "video": "https://youtu.be/TjyIOkNcig0",
+    "platform": "PC",
+    "submitted": "18/10/2025",
+    "time": "2:03:450",
     "run_type": "IL",
     "MS": "Completed"
   }
