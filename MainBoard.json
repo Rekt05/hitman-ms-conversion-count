@@ -56452,9 +56452,9 @@
     "video": "https://youtu.be/2H2oREXlzIY?t=16",
     "platform": "PC",
     "submitted": "12/08/2023",
-    "time": "0:56",
+    "time": "0:56:887",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa/run/zx355lqz",
@@ -83239,5 +83239,23 @@
     "time": "4:52",
     "run_type": "FG",
     "MS": "N/A"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z563kkjy",
+    "video": "https://www.youtube.com/watch?v=LYba9k-VymE",
+    "platform": "PC",
+    "submitted": "29/10/2025",
+    "time": "1:21:870",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/zg9vj3nm",
+    "video": "https://youtu.be/9jiV3P47pLw",
+    "platform": "PC",
+    "submitted": "29/10/2025",
+    "time": "0:46:125",
+    "run_type": "IL",
+    "MS": "Completed"
   }
 ]
