@@ -198,15 +198,6 @@
     "MS": "Unconverted"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/ywkw3jny",
-    "video": "https://youtu.be/oBcaCiJHyeI)",
-    "platform": "PC",
-    "submitted": "22/10/2021",
-    "time": "3:28",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/z1xvp2wm",
     "video": "https://youtu.be/mxvQRam-eho",
     "platform": "PS4",
@@ -5801,6 +5792,15 @@
     "platform": "PC",
     "submitted": "02/11/2025",
     "time": "0:12:018",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/y40ro5dz",
+    "video": "https://www.youtube.com/watch?v=a4ZALacnvaw",
+    "platform": "PC",
+    "submitted": "10/11/2025",
+    "time": "0:23:306",
     "run_type": "IL",
     "MS": "Completed"
   }

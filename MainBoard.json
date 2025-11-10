@@ -83547,15 +83547,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa/run/ydo926jz",
-    "video": "https://www.youtube.com/watch?v=IPHjIYE4CYY",
-    "platform": "PC",
-    "submitted": "04/11/2025",
-    "time": "0:27:870",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/z56083ny",
     "video": "https://www.youtube.com/watch?v=X0SOxbGFGQA",
     "platform": "PC",
@@ -83601,6 +83592,24 @@
     "MS": "N/A"
   },
   {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/mr54w7dy",
+    "video": "https://youtu.be/WkU1_jmb1pw",
+    "platform": "PC",
+    "submitted": "06/11/2025",
+    "time": "7:07",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/m32n834y",
+    "video": "https://youtu.be/uy5lhVQrZDQ",
+    "platform": "PC",
+    "submitted": "06/11/2025",
+    "time": "20:42",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/z0krewom",
     "video": "https://www.youtube.com/watch?v=H5KsMZAvH3Y",
     "platform": "PC",
@@ -83633,6 +83642,15 @@
     "platform": "PC",
     "submitted": "08/11/2025",
     "time": "1:08:115",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z0kr60em",
+    "video": "https://youtu.be/I5ZFmelHcQo",
+    "platform": "PC",
+    "submitted": "09/11/2025",
+    "time": "2:22:155",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -83723,6 +83741,24 @@
     "platform": "PC",
     "submitted": "09/11/2025",
     "time": "0:54:045",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/mkrgkglz",
+    "video": "https://youtu.be/cNcum85Xk9U",
+    "platform": "PS5",
+    "submitted": "09/11/2025",
+    "time": "1:27:157",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z0krn19m",
+    "video": "https://youtu.be/GCQmrIsWOHA",
+    "platform": "PC",
+    "submitted": "10/11/2025",
+    "time": "0:31:582",
     "run_type": "IL",
     "MS": "Completed"
   }
