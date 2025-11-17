@@ -59058,24 +59058,6 @@
     "MS": "Unconverted"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/m3j9kpqz",
-    "video": "https://youtu.be/xAqFTPRiZis",
-    "platform": "PC",
-    "submitted": "09/07/2024",
-    "time": "0:52",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
-    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y4l9kdkz",
-    "video": "https://youtu.be/xAqFTPRiZis",
-    "platform": "PC",
-    "submitted": "09/07/2024",
-    "time": "0:52",
-    "run_type": "IL",
-    "MS": "Unconverted"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/m3j9j86z",
     "video": "https://youtu.be/NHcg1FUO1Gg",
     "platform": "PC",
@@ -64841,6 +64823,24 @@
     "platform": "PC",
     "submitted": "07/11/2025",
     "time": "0:57:712",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/z56dxgey",
+    "video": "https://youtu.be/QIZJ-zWGDjs",
+    "platform": "PC",
+    "submitted": "16/11/2025",
+    "time": "1:57:900",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y407xlkz",
+    "video": "https://youtu.be/QIZJ-zWGDjs",
+    "platform": "PC",
+    "submitted": "16/11/2025",
+    "time": "1:57:900",
     "run_type": "IL",
     "MS": "Completed"
   }
