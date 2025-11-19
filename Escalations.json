@@ -4351,9 +4351,9 @@
     "video": "https://www.bilibili.com/video/BV1mg4y1N7DH/?vd_source=a9f788bf8f8777b96a3b47fd82edaf0d",
     "platform": "PC",
     "submitted": "30/06/2023",
-    "time": "0:50",
+    "time": "0:50:999",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/zqj9329m",
@@ -5810,6 +5810,15 @@
     "platform": "PC",
     "submitted": "13/11/2025",
     "time": "2:02:700",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/yv5oeq6m",
+    "video": "https://youtu.be/NYa8r4cgYVg",
+    "platform": "PC",
+    "submitted": "19/11/2025",
+    "time": "0:50:992",
     "run_type": "IL",
     "MS": "Completed"
   }
