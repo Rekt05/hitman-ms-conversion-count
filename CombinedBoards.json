@@ -84330,6 +84330,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y8nx3pxy",
+    "video": "https://youtu.be/nq7RSeTnEJk?si=lTHpWXY6lHvtoVzm",
+    "platform": "PC",
+    "submitted": "03/12/2025",
+    "time": "17:31",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/mkrd435z",
     "video": "https://www.youtube.com/watch?v=6v4XwF4aMGo",
     "platform": "PC",
@@ -171608,6 +171617,15 @@
     "platform": "PC",
     "submitted": "12/12/2025",
     "time": "1:16:372",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_escalations/run/mkrv85vz",
+    "video": "https://youtu.be/OhL7JJtRu9I",
+    "platform": "PC",
+    "submitted": "12/12/2025",
+    "time": "1:29:850",
     "run_type": "IL",
     "MS": "Completed"
   },
