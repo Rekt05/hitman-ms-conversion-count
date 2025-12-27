@@ -85120,5 +85120,23 @@
     "time": "3:26",
     "run_type": "FG",
     "MS": "N/A"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/zn5eq4vz",
+    "video": "https://youtu.be/tLKzaogsWlc?si=q74ITIexjpwUzQ_B",
+    "platform": "Xbox One",
+    "submitted": "26/12/2025",
+    "time": "0:47:400",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y68qxrqz",
+    "video": "https://youtu.be/FgBYibRPh9k?t=110",
+    "platform": "PC",
+    "submitted": "26/12/2025",
+    "time": "0:24:532",
+    "run_type": "IL",
+    "MS": "Completed"
   }
 ]
