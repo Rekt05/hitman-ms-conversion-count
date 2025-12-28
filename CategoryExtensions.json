@@ -61660,7 +61660,7 @@
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y9plrw2m",
-    "video": "https://www.youtube.com/watch?v=WiAd6R4eK5k",
+    "video": "https://youtu.be/xQm6a1fVxDw",
     "platform": "PC",
     "submitted": "27/01/2025",
     "time": "1:15",
@@ -64706,6 +64706,15 @@
     "platform": "PC",
     "submitted": "16/12/2025",
     "time": "0:45:345",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/z56kwkdy",
+    "video": "https://youtu.be/SxNvuUMzF0s",
+    "platform": "PC",
+    "submitted": "28/12/2025",
+    "time": "1:14:587",
     "run_type": "IL",
     "MS": "Completed"
   }
