@@ -85365,15 +85365,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "http://www.speedrun.com/hitman_woa/run/mepw2r3y",
-    "video": "https://www.youtube.com/watch?v=NNxrF5Iw3rQ",
-    "platform": "PC",
-    "submitted": "03/01/2026",
-    "time": "1:15:480",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/zg9l11vm",
     "video": "https://youtu.be/zZYJlQQjY08?si=KW5FsbXVb63_cP61",
     "platform": "PC",
@@ -85469,6 +85460,15 @@
     "platform": "Xbox Series S",
     "submitted": "05/01/2026",
     "time": "2:07:942",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z17norgz",
+    "video": "https://youtu.be/THzGX6DwLcw",
+    "platform": "PC",
+    "submitted": "05/01/2026",
+    "time": "0:47:152",
     "run_type": "IL",
     "MS": "Completed"
   }
