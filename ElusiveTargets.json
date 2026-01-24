@@ -10840,9 +10840,9 @@
     "video": "https://www.bilibili.com/video/BV18H4y1f7eW",
     "platform": "PC",
     "submitted": "23/10/2023",
-    "time": "0:25",
+    "time": "0:25:912",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_ets/run/yjwg903m",
@@ -16034,6 +16034,15 @@
     "platform": "PS5",
     "submitted": "16/01/2026",
     "time": "0:30:547",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/z177prgz",
+    "video": "https://youtu.be/Rbf2imEGynE",
+    "platform": "PC",
+    "submitted": "23/01/2026",
+    "time": "0:25:500",
     "run_type": "IL",
     "MS": "Completed"
   }
