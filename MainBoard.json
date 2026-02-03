@@ -85923,6 +85923,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/yj7r5l3y",
+    "video": "https://youtu.be/LXgApO1_X-4?si=G1Tj3RioTh7BPQLm",
+    "platform": "PS4",
+    "submitted": "28/01/2026",
+    "time": "6:22",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/y8nlxnxy",
     "video": "https://www.youtube.com/watch?v=aWHhk_LA-hE",
     "platform": "PC",
@@ -85932,6 +85941,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/yl52nnrz",
+    "video": "https://www.youtube.com/watch?v=qbQoEk4JrBg",
+    "platform": "PC",
+    "submitted": "29/01/2026",
+    "time": "2:35",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/zn56vlvz",
     "video": "https://youtu.be/v9B3_p-3Lkg",
     "platform": "PC",
@@ -85939,6 +85957,15 @@
     "time": "0:23:193",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y68w210z",
+    "video": "https://www.youtube.com/watch?v=s2CjxqbZuts",
+    "platform": "PC",
+    "submitted": "29/01/2026",
+    "time": "7:51",
+    "run_type": "FG",
+    "MS": "N/A"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa/run/m7vjndwm",
@@ -86018,6 +86045,33 @@
     "platform": "PC",
     "submitted": "31/01/2026",
     "time": "0:33:465",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y68w1vjz",
+    "video": "https://www.youtube.com/watch?v=rXb1Ixauvro",
+    "platform": "PC",
+    "submitted": "31/01/2026",
+    "time": "0:39:487",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z564o05y",
+    "video": "https://www.youtube.com/watch?v=klB4eNJVaVI",
+    "platform": "PC",
+    "submitted": "01/02/2026",
+    "time": "0:50:400",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/mkrn291z",
+    "video": "https://youtu.be/BPsL_fnd9AE",
+    "platform": "PS5",
+    "submitted": "01/02/2026",
+    "time": "0:46:837",
     "run_type": "IL",
     "MS": "Completed"
   }
