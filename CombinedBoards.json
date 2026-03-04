@@ -86688,6 +86688,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y6w7vg6z",
+    "video": "https://youtu.be/Z4a7NXw-arQ?si=5a_1dSh_INYrc8rZ",
+    "platform": "PC",
+    "submitted": "25/02/2026",
+    "time": "2:05",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "http://www.speedrun.com/hitman_woa/run/ywo1x89m",
     "video": "https://www.youtube.com/watch?v=CwZquTeVrKA",
     "platform": "PC",
@@ -86812,6 +86821,33 @@
     "time": "1:15:817",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/z5n1ekjz",
+    "video": "https://youtu.be/QW3NgjJ5bqw?si=kS5iUoJeX2QWNHjp",
+    "platform": "PS5",
+    "submitted": "02/03/2026",
+    "time": "0:12:862",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/zxp4qgqy",
+    "video": "https://youtu.be/JBO1dkDHees?si=HYk1Z01ODtmETzTG",
+    "platform": "Xbox Series X",
+    "submitted": "02/03/2026",
+    "time": "0:27:342",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa/run/y4v13e2y",
+    "video": "https://youtu.be/uBsHs1M3Jr4",
+    "platform": "PC",
+    "submitted": "04/03/2026",
+    "time": "23:19",
+    "run_type": "FG",
+    "MS": "N/A"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/m3nok44y",
@@ -166622,6 +166658,24 @@
     "platform": "PS4",
     "submitted": "02/03/2026",
     "time": "1:11:700",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/mkx9jw1z",
+    "video": "https://www.youtube.com/watch?v=ENkZenp_S9I",
+    "platform": "PC",
+    "submitted": "03/03/2026",
+    "time": "0:59:400",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_ets/run/yo8jvdjz",
+    "video": "https://youtu.be/Fnpq8oDLI20",
+    "platform": "PC",
+    "submitted": "03/03/2026",
+    "time": "1:15:975",
     "run_type": "IL",
     "MS": "Completed"
   },
