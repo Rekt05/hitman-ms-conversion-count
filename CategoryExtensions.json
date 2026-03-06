@@ -50161,9 +50161,9 @@
     "video": "https://www.bilibili.com/video/BV1es4y1N7yN/?spm_id_from=333.999.0.0&vd_source=e1fb39611fb2b2c4d9fddd8a9d69b546",
     "platform": "PC",
     "submitted": "08/04/2023",
-    "time": "1:08",
+    "time": "1:08:977",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y4gd943y",
@@ -50764,9 +50764,9 @@
     "video": "https://www.bilibili.com/video/BV1bX4y1k7CP/",
     "platform": "PC",
     "submitted": "08/05/2023",
-    "time": "1:08",
+    "time": "1:08:475",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/y2gqp57z",
@@ -63500,6 +63500,15 @@
     "platform": "PS4",
     "submitted": "27/02/2026",
     "time": "1:29:947",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "http://www.speedrun.com/hitman_woa_extensions/run/ydp6gdvy",
+    "video": "https://youtu.be/ZUMl8QKW7zE?si=q9ImkZ6VtGVcWleU",
+    "platform": "Xbox Series X",
+    "submitted": "06/03/2026",
+    "time": "1:08:557",
     "run_type": "IL",
     "MS": "Completed"
   }
