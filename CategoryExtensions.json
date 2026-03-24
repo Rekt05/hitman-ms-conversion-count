@@ -51916,9 +51916,9 @@
     "video": "https://youtu.be/-pluJ3REtjc",
     "platform": "PC",
     "submitted": "10/08/2023",
-    "time": "0:42",
+    "time": "0:42:765",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/ywr564pm",
@@ -63684,11 +63684,65 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/zg1xq3dz",
+    "video": "https://www.youtube.com/watch?v=_7J81JcFrjI",
+    "platform": "PC",
+    "submitted": "21/03/2026",
+    "time": "0:57:892",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/yl2o5nnz",
     "video": "https://youtu.be/DMIfrEpCpzg",
     "platform": "PC",
     "submitted": "22/03/2026",
     "time": "0:55:237",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/med9qp2y",
+    "video": "https://www.youtube.com/watch?v=ztrSgdIAJUk",
+    "platform": "PC",
+    "submitted": "23/03/2026",
+    "time": "0:42:555",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/m38rdg6y",
+    "video": "https://youtu.be/WOnAQpE0_aY",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:22:987",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y4vr5eqy",
+    "video": "https://youtu.be/WOnAQpE0_aY",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:22:987",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y9g97nnm",
+    "video": "https://youtu.be/_EstQgKB4G0",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:08:745",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/z10r38rm",
+    "video": "https://youtu.be/_EstQgKB4G0",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:08:745",
     "run_type": "IL",
     "MS": "Completed"
   }
