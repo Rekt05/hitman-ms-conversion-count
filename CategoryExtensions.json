@@ -51925,9 +51925,9 @@
     "video": "https://youtu.be/P57myXaa37E",
     "platform": "PC",
     "submitted": "10/08/2023",
-    "time": "0:46",
+    "time": "0:46:522",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/z1l79q9m",
@@ -63743,6 +63743,51 @@
     "platform": "PC",
     "submitted": "24/03/2026",
     "time": "0:08:745",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y26xqqjm",
+    "video": "https://youtu.be/742YsIAfgV4?si=nGmWLz7wuYU4nsMf",
+    "platform": "PS4",
+    "submitted": "24/03/2026",
+    "time": "0:54:187",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/yve1jjxm",
+    "video": "https://youtu.be/PBKknTWajaY",
+    "platform": "PS4",
+    "submitted": "24/03/2026",
+    "time": "1:04:530",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y4vr31qy",
+    "video": "https://youtu.be/fBqlb0zYJDo?si=FrolSu9nzb2js63M",
+    "platform": "PS4",
+    "submitted": "24/03/2026",
+    "time": "2:12:547",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/m7jdq55m",
+    "video": "https://www.youtube.com/watch?v=73XSI3144i0",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:46:320",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/zg1gwqnz",
+    "video": "https://www.youtube.com/watch?v=Swc7gtcnmAk",
+    "platform": "PC",
+    "submitted": "24/03/2026",
+    "time": "0:13:747",
     "run_type": "IL",
     "MS": "Completed"
   }
