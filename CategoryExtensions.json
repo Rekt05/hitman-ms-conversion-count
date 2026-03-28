@@ -63792,6 +63792,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y9g998nm",
+    "video": "https://youtu.be/0_C31TPPz_Q",
+    "platform": "PC",
+    "submitted": "25/03/2026",
+    "time": "1:42:397",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/y4vr7e2y",
     "video": "https://www.youtube.com/watch?v=cSFphtuAB2c",
     "platform": "PC",
@@ -63844,5 +63853,14 @@
     "time": "0:39:667",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/run/z10rn9wm",
+    "video": "https://youtu.be/arkFDSJVteI?si=thJGFMgaswf9X1vd",
+    "platform": "PS4",
+    "submitted": "27/03/2026",
+    "time": "11:36",
+    "run_type": "FG",
+    "MS": "N/A"
   }
 ]
