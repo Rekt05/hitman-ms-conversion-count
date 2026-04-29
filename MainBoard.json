@@ -88083,6 +88083,24 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/medeqr8y",
+    "video": "https://www.bilibili.com/video/BV1vKoEBnES9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "24/04/2026",
+    "time": "8:58",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/m7j2krwm",
+    "video": "https://www.bilibili.com/video/BV1vKoEBnES9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "24/04/2026",
+    "time": "8:58",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/y26g99wm",
     "video": "https://youtu.be/wlzPdHp8ufY",
     "platform": "PC",
@@ -88144,5 +88162,32 @@
     "time": "0:18:843",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/z02jrdem",
+    "video": "https://youtu.be/MPp8unJ4SfM?si=wSniecsUxMkXkz5O",
+    "platform": "Xbox Series X",
+    "submitted": "26/04/2026",
+    "time": "0:39:562",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/zxp33vey",
+    "video": "https://youtu.be/v1v_bhXf0sA?si=fdxvOXojwM8fegY3",
+    "platform": "PC",
+    "submitted": "27/04/2026",
+    "time": "2:28:350",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/m7j0og4m",
+    "video": "https://www.bilibili.com/video/BV1iU91BRE5B/?vd_source=d96e31957804e175eb6392f37e8d6144#reply116484160364206",
+    "platform": "PC",
+    "submitted": "28/04/2026",
+    "time": "5:30",
+    "run_type": "FG",
+    "MS": "N/A"
   }
 ]
