@@ -88416,6 +88416,24 @@
     "MS": "N/A"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/yjro9p7z",
+    "video": "https://www.youtube.com/watch?v=rOoD__X27Sc",
+    "platform": "PS5",
+    "submitted": "11/05/2026",
+    "time": "7:47:999",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/medwpq9y",
+    "video": "https://youtu.be/j2w5GZz656A?si=GWa_8rNSMhicuOuG",
+    "platform": "PS5",
+    "submitted": "11/05/2026",
+    "time": "3:06:480",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/ywogor2m",
     "video": "https://www.youtube.com/watch?v=KKTbV-ZJo4E",
     "platform": "PS5",
@@ -88430,6 +88448,33 @@
     "platform": "PS5",
     "submitted": "12/05/2026",
     "time": "0:55:965",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/medg8dqy",
+    "video": "https://youtu.be/dzSL4L4gnYg",
+    "platform": "PC",
+    "submitted": "13/05/2026",
+    "time": "0:18:397",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/zpvx0enz",
+    "video": "https://youtu.be/FhrujXJilRY",
+    "platform": "PC",
+    "submitted": "13/05/2026",
+    "time": "0:28:267",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/y9gd142m",
+    "video": "https://youtu.be/cWsizhI97Fw",
+    "platform": "PC",
+    "submitted": "14/05/2026",
+    "time": "0:13:470",
     "run_type": "IL",
     "MS": "Completed"
   }
