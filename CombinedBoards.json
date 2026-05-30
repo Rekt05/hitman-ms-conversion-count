@@ -88663,9 +88663,9 @@
     "video": "https://youtu.be/IA6CSGZ4vs4",
     "platform": "PC",
     "submitted": "25/05/2026",
-    "time": "1:59",
+    "time": "1:59:722",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/zg16p70z",
@@ -88718,6 +88718,15 @@
     "platform": "PC",
     "submitted": "25/05/2026",
     "time": "0:39:075",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/z5nw80dz",
+    "video": "https://drive.google.com/file/d/1RGHZ9N0Hfk3C591ELf9oHZWdGdLdUBNU/view?usp=sharing",
+    "platform": "PC",
+    "submitted": "26/05/2026",
+    "time": "0:33:105",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -153009,6 +153018,24 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/y4vnn6ky",
+    "video": "https://youtu.be/hrLoZytrm4U?si=ANHEMESgQCVQCTS4",
+    "platform": "Xbox Series X",
+    "submitted": "27/05/2026",
+    "time": "1:13:455",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/zpvoj5rz",
+    "video": "https://youtu.be/eHw_A92rzIg?si=rFAc2T3A1F_4f7h_",
+    "platform": "PC",
+    "submitted": "28/05/2026",
+    "time": "15:55",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zxg15qky",
     "video": "https://youtu.be/jrL0zRGsJw8",
     "platform": "PC",
@@ -176828,6 +176855,24 @@
     "platform": "PC",
     "submitted": "29/05/2026",
     "time": "11:45",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_freelancer/runs/z107dwgm",
+    "video": "https://youtu.be/kAxKtc6YDHw?si=ZxeOz-Xcif9s1Lyd",
+    "platform": "PC",
+    "submitted": "29/05/2026",
+    "time": "1:48",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_freelancer/runs/yl25oerz",
+    "video": "https://www.youtube.com/watch?v=kfUjmOZQZmM",
+    "platform": "PC",
+    "submitted": "30/05/2026",
+    "time": "13:52",
     "run_type": "FG",
     "MS": "N/A"
   }

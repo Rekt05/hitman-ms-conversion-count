@@ -88663,9 +88663,9 @@
     "video": "https://youtu.be/IA6CSGZ4vs4",
     "platform": "PC",
     "submitted": "25/05/2026",
-    "time": "1:59",
+    "time": "1:59:722",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/zg16p70z",
@@ -88718,6 +88718,15 @@
     "platform": "PC",
     "submitted": "25/05/2026",
     "time": "0:39:075",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/z5nw80dz",
+    "video": "https://drive.google.com/file/d/1RGHZ9N0Hfk3C591ELf9oHZWdGdLdUBNU/view?usp=sharing",
+    "platform": "PC",
+    "submitted": "26/05/2026",
+    "time": "0:33:105",
     "run_type": "IL",
     "MS": "Completed"
   },
