@@ -88848,6 +88848,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/z02k03om",
+    "video": "https://youtu.be/UiZxdeRvk58",
+    "platform": "PC",
+    "submitted": "01/06/2026",
+    "time": "0:09:075",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/m3nok44y",
     "video": "https://www.youtube.com/watch?v=Py-JidFR0cs",
     "platform": "PC",
@@ -153122,6 +153131,15 @@
     "platform": "PC",
     "submitted": "28/05/2026",
     "time": "15:55",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/medpx89y",
+    "video": "https://youtu.be/H-Jgs53vj8Y",
+    "platform": "PC",
+    "submitted": "29/05/2026",
+    "time": "5:37",
     "run_type": "FG",
     "MS": "N/A"
   },
