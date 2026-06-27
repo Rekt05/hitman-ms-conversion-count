@@ -15777,6 +15777,15 @@
     "MS": "Unconverted"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/z0kpklom",
+    "video": "https://youtu.be/VTiaMY6FpXA",
+    "platform": "Xbox One",
+    "submitted": "02/12/2025",
+    "time": "1:36:232",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/mkrkr65z",
     "video": "https://youtu.be/3FSJnA_1yaU",
     "platform": "PC",
@@ -17287,5 +17296,14 @@
     "time": "0:25:762",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/y8l54w5m",
+    "video": "https://youtu.be/292nU2qCwSg",
+    "platform": "Xbox One",
+    "submitted": "24/06/2026",
+    "time": "0:23",
+    "run_type": "IL",
+    "MS": "Unconverted"
   }
 ]
