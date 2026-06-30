@@ -170514,6 +170514,24 @@
     "MS": "Unconverted"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/ydx8g5wz",
+    "video": "https://youtu.be/3MhP5oPBWKc",
+    "platform": "PS5",
+    "submitted": "27/06/2026",
+    "time": "0:45:412",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/z14dq5gz",
+    "video": "https://youtu.be/3MhP5oPBWKc",
+    "platform": "PS5",
+    "submitted": "27/06/2026",
+    "time": "0:45:412",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/zgrjdjnm",
     "video": "https://youtu.be/aI8swKhU01A",
     "platform": "PC",
@@ -177449,6 +177467,15 @@
     "platform": "PC",
     "submitted": "26/06/2026",
     "time": "22:57",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_freelancer/runs/m741lwwm",
+    "video": "https://www.youtube.com/watch?v=fVARW638b2c",
+    "platform": "PC",
+    "submitted": "28/06/2026",
+    "time": "2:10",
     "run_type": "FG",
     "MS": "N/A"
   }
