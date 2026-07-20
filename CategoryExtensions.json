@@ -64231,5 +64231,32 @@
     "time": "8:09",
     "run_type": "FG",
     "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/yogko9dm",
+    "video": "https://youtu.be/jqqPMj06H4k",
+    "platform": "PC",
+    "submitted": "19/07/2026",
+    "time": "3:23:122",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/z145k89z",
+    "video": "https://youtu.be/uZJjPaQhTQM?si=zRyfm-G5eBmgPXUw",
+    "platform": "PC",
+    "submitted": "19/07/2026",
+    "time": "2:11:220",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/m74g38em",
+    "video": "https://youtu.be/uZJjPaQhTQM?si=zRyfm-G5eBmgPXUw",
+    "platform": "PC",
+    "submitted": "19/07/2026",
+    "time": "2:11:220",
+    "run_type": "IL",
+    "MS": "Completed"
   }
 ]
