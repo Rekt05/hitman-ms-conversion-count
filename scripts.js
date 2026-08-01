@@ -8,11 +8,29 @@ const BOARD_FILES = {
 let currentRuns = [];
 let currentBoard = "Main Board";
 
+//main board runs with 0ms that scrape as unconverted — exclude from picker too
+const ZERO_MS_RUNS = new Set([
+  "https://www.speedrun.com/hitman_woa/runs/m3n3v3wy",
+  "https://www.speedrun.com/hitman_woa/runs/zx6e50gz",
+  "https://www.speedrun.com/hitman_woa/runs/m3ne2v6y",
+  "https://www.speedrun.com/hitman_woa/runs/zxl98xqz",
+  "https://www.speedrun.com/hitman_woa/runs/zp266jny",
+  "https://www.speedrun.com/hitman_woa/runs/zq7wk21m",
+  "https://www.speedrun.com/hitman_woa/runs/ywnod10y",
+  "https://www.speedrun.com/hitman_woa/runs/zxxonq8z",
+  "https://www.speedrun.com/hitman_woa/runs/zpk4wwvy",
+  "https://www.speedrun.com/hitman_woa/runs/m3wx58gy",
+  "https://www.speedrun.com/hitman_woa/runs/z56le65y",
+  "https://www.speedrun.com/hitman_woa/runs/yl2n15rz",
+]);
+const MAIN_BOARD_MS_OFFSET = ZERO_MS_RUNS.size;
+
 const runsCount = document.getElementById("runsCount");
 const fgCount = document.getElementById("fgCount");
 const ilCount = document.getElementById("ilCount");
 const ilMsCount = document.getElementById("ilMsCount");
 const ilNoMsCount = document.getElementById("ilNoMsCount");
+const msOffsetNote = document.getElementById("msOffsetNote");
 const result = document.getElementById("result");
 
 async function loadBoard(boardName) {
@@ -28,12 +46,19 @@ function updateStats() {
   const totalRuns = currentRuns.length;
   const fg = currentRuns.filter((r) => r.run_type === "FG").length;
   const il = currentRuns.filter((r) => r.run_type === "IL").length;
-  const ilMs = currentRuns.filter(
+  let ilMs = currentRuns.filter(
     (r) => r.run_type === "IL" && r.MS === "Completed"
   ).length;
-  const ilNoMs = currentRuns.filter(
+  let ilNoMs = currentRuns.filter(
     (r) => r.run_type === "IL" && r.MS === "Unconverted"
   ).length;
+
+  const isMain = currentBoard === "Main Board";
+  if (isMain) {
+    ilMs += MAIN_BOARD_MS_OFFSET;
+    ilNoMs -= MAIN_BOARD_MS_OFFSET;
+  }
+  msOffsetNote.hidden = !isMain;
 
   runsCount.textContent = totalRuns;
   fgCount.textContent = fg;
@@ -44,10 +69,17 @@ function updateStats() {
 
 function pickRandomUnconverted() {
   const pool = currentRuns.filter(
-    (r) => r.run_type === "IL" && r.MS === "Unconverted"
+    (r) =>
+      r.run_type === "IL" &&
+      r.MS === "Unconverted" &&
+      !ZERO_MS_RUNS.has(r.weblink)
   );
-  const pick = pool[Math.floor(Math.random() * pool.length)];
   result.innerHTML = "";
+  if (!pool.length) {
+    result.innerHTML = '<p class="hint">no unconverted runs left on this board</p>';
+    return;
+  }
+  const pick = pool[Math.floor(Math.random() * pool.length)];
   const a = document.createElement("a");
   a.href = pick.weblink;
   a.textContent = pick.weblink;

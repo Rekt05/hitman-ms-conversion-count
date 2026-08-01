@@ -58,6 +58,13 @@ body {
   margin: 0.5rem 0;
 }
 
+.stats-note {
+  margin: 0.75rem 0 0;
+  font-size: 0.9rem;
+  color: #aaa;
+  line-height: 1.4;
+}
+
 .controls {
   text-align: center;
   margin-bottom: 1rem;
