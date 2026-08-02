@@ -8,7 +8,7 @@ const BOARD_FILES = {
 let currentRuns = [];
 let currentBoard = "Main Board";
 
-//main board runs with 0ms that scrape as unconverted — exclude from picker too
+//main board runs with 0ms that scrape as unconverted
 const ZERO_MS_RUNS = new Set([
   "https://www.speedrun.com/hitman_woa/runs/m3n3v3wy",
   "https://www.speedrun.com/hitman_woa/runs/zx6e50gz",
@@ -22,6 +22,7 @@ const ZERO_MS_RUNS = new Set([
   "https://www.speedrun.com/hitman_woa/runs/m3wx58gy",
   "https://www.speedrun.com/hitman_woa/runs/z56le65y",
   "https://www.speedrun.com/hitman_woa/runs/yl2n15rz",
+  "https://www.speedrun.com/hitman_woa/runs/yw0d019m",
 ]);
 const MAIN_BOARD_MS_OFFSET = ZERO_MS_RUNS.size;
 
