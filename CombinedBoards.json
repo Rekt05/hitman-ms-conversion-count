@@ -3856,7 +3856,7 @@
     "video": "https://www.youtube.com/watch?v=r1cFmaM8ZJU",
     "platform": "PC",
     "submitted": "30/01/2021",
-    "time": "1:05:572",
+    "time": "1:05:999",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -4018,9 +4018,9 @@
     "video": "https://youtu.be/5ZI3RirDutk",
     "platform": "Xbox One",
     "submitted": "30/01/2021",
-    "time": "1:16:003",
+    "time": "1:16",
     "run_type": "IL",
-    "MS": "Completed"
+    "MS": "Unconverted"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/z18o85gy",
@@ -150975,15 +150975,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/ylj6ok3m",
-    "video": "https://www.youtube.com/watch?v=mwLkEi8xggI",
-    "platform": "PC",
-    "submitted": "13/07/2025",
-    "time": "0:47:100",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/yv7pxqxy",
     "video": "https://youtu.be/Ej429vZdWoA",
     "platform": "PC",
@@ -171892,7 +171883,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/y47jqg2y",
-    "video": "no video",
+    "video": "https://www.bilibili.com/video/BV1Uy4y1n7ZA/",
     "platform": "PC",
     "submitted": "22/10/2021",
     "time": "2:23",
@@ -171946,7 +171937,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/y8eoxedy",
-    "video": "no video",
+    "video": "https://www.bilibili.com/video/BV1C64y1Y7gn",
     "platform": "PC",
     "submitted": "23/10/2021",
     "time": "2:30",
