@@ -89793,6 +89793,15 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/yw70jd3z",
+    "video": "https://www.youtube.com/watch?v=Ur3fBEbD9bc",
+    "platform": "PC",
+    "submitted": "29/07/2026",
+    "time": "5:52",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/z046p3ey",
     "video": "https://youtu.be/MYlEe2swrdU?si=7b99HGERHYVsp-56",
     "platform": "Xbox Series S",
@@ -169245,15 +169254,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zg60q50m",
-    "video": "https://youtu.be/ioXHNJ0cYQw",
-    "platform": "PC",
-    "submitted": "30/08/2025",
-    "time": "2:52:132",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yd4xgjvy",
     "video": "https://youtu.be/n36NM1DwI2A",
     "platform": "PS5",
@@ -178637,6 +178637,15 @@
     "platform": "PC",
     "submitted": "28/06/2026",
     "time": "2:10",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_freelancer/runs/znl1wnvy",
+    "video": "https://www.youtube.com/watch?v=jci_U2RlB4w",
+    "platform": "PC",
+    "submitted": "01/08/2026",
+    "time": "29:35",
     "run_type": "FG",
     "MS": "N/A"
   }
