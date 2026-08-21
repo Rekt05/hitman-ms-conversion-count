@@ -37426,9 +37426,9 @@
     "video": "https://www.youtube.com/watch?v=QGyFpwy9cyM",
     "platform": "PC",
     "submitted": "14/05/2022",
-    "time": "2:23",
+    "time": "2:23:820",
     "run_type": "IL",
-    "MS": "Unconverted"
+    "MS": "Completed"
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/zq71rjrm",
@@ -64355,6 +64355,15 @@
     "platform": "PC",
     "submitted": "11/08/2026",
     "time": "0:46:980",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/y84j39wz",
+    "video": "https://youtu.be/ROJIOBesy_s",
+    "platform": "PC",
+    "submitted": "12/08/2026",
+    "time": "2:23:130",
     "run_type": "IL",
     "MS": "Completed"
   }
