@@ -6518,7 +6518,7 @@
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/mr46q24z",
     "video": "https://youtu.be/52be7-rqh38?t=2699",
-    "platform": "Unknown",
+    "platform": "PS4",
     "submitted": "12/02/2021",
     "time": "11:03",
     "run_type": "FG",
@@ -16013,7 +16013,7 @@
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/yv16n0ey",
     "video": "https://youtu.be/t3DcQo9M5mI",
-    "platform": "Unknown",
+    "platform": "PS4",
     "submitted": "29/04/2021",
     "time": "10:52",
     "run_type": "FG",
@@ -172058,6 +172058,60 @@
     "platform": "PC",
     "submitted": "29/08/2026",
     "time": "1:22:192",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zxrn8jqz",
+    "video": "https://youtu.be/-Z5RQG8ojMQ",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "1:18:487",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/mknvpklm",
+    "video": "https://youtu.be/JMvOB9ZscJY",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "1:24:217",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/znlj2pvy",
+    "video": "https://youtu.be/jjWLebIQ0V0",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "0:56:600",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/znlj2q9y",
+    "video": "https://youtu.be/rpuSBrd3W5k",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "0:56:655",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/y9q6j82z",
+    "video": "https://youtu.be/LYxayqrYIUg",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "0:50:145",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/y64ovqqm",
+    "video": "https://www.youtube.com/watch?v=DalBgrBJoJA",
+    "platform": "PC",
+    "submitted": "30/08/2026",
+    "time": "0:35:362",
     "run_type": "IL",
     "MS": "Completed"
   },
