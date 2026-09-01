@@ -10126,7 +10126,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/zqgdp2rm",
-    "video": "https://www.bilibili.com/video/av374483098",
+    "video": "https://www.bilibili.com/video/BV15Z4y1P7HT",
     "platform": "PC",
     "submitted": "05/03/2021",
     "time": "8:36",
@@ -10711,7 +10711,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/yw0goonm",
-    "video": "https://www.bilibili.com/video/av672064377",
+    "video": "https://www.bilibili.com/video/BV18U4y1p7yj",
     "platform": "PC",
     "submitted": "09/03/2021",
     "time": "2:19:942",
@@ -13844,7 +13844,7 @@
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/yd97d4wz",
     "video": "https://youtu.be/yQI5dcmvEZo?t=2708",
-    "platform": "Unknown",
+    "platform": "PS4",
     "submitted": "03/04/2021",
     "time": "12:25",
     "run_type": "FG",
@@ -19450,7 +19450,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/y479xw2y",
-    "video": "https://www.bilibili.com/video/av206907037",
+    "video": "https://www.bilibili.com/video/BV17h411z7iq",
     "platform": "PC",
     "submitted": "26/07/2021",
     "time": "0:58:425",
@@ -54333,15 +54333,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa/runs/z1lkq3jm",
-    "video": "https://www.bilibili.com/video/BV1UM4y1W7RX/",
-    "platform": "PC",
-    "submitted": "17/07/2023",
-    "time": "7:11",
-    "run_type": "FG",
-    "MS": "N/A"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/zqjdeexm",
     "video": "https://youtu.be/MhgomHRtOkk",
     "platform": "PC",
@@ -55337,15 +55328,6 @@
     "platform": "PC",
     "submitted": "13/08/2023",
     "time": "8:25",
-    "run_type": "FG",
-    "MS": "N/A"
-  },
-  {
-    "weblink": "https://www.speedrun.com/hitman_woa/runs/y4o0dgnz",
-    "video": "https://www.bilibili.com/video/BV1GX4y1x7QF",
-    "platform": "PC",
-    "submitted": "13/08/2023",
-    "time": "6:19",
     "run_type": "FG",
     "MS": "N/A"
   },
@@ -72702,15 +72684,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa/runs/ydv5e0xy",
-    "video": "https://www.youtube.com/watch?v=agKzX56ANns",
-    "platform": "PC",
-    "submitted": "26/12/2024",
-    "time": "1:20:955",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa/runs/y9p0ljnm",
     "video": "https://youtu.be/CZp0Uzp9yRk?t=1841",
     "platform": "PC",
@@ -88195,7 +88168,7 @@
     "video": "https://youtube.com/watch?v=_d2t3U5Nxew",
     "platform": "PS4",
     "submitted": "02/06/2026",
-    "time": "0:48:518",
+    "time": "0:48:615",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -89996,6 +89969,33 @@
     "platform": "PC",
     "submitted": "05/08/2026",
     "time": "1:20:040",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/zg0g1knm",
+    "video": "https://youtu.be/biIeZoqyIEQ",
+    "platform": "PC",
+    "submitted": "05/08/2026",
+    "time": "0:15:532",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/m34r85qz",
+    "video": "https://youtu.be/ft48VUF-QSU",
+    "platform": "PC",
+    "submitted": "05/08/2026",
+    "time": "0:36:187",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa/runs/zxrgevgz",
+    "video": "https://youtu.be/Za5XnbvWzdg?si=KCKKFvTzwBnKIMqe",
+    "platform": "PS5",
+    "submitted": "06/08/2026",
+    "time": "1:02:595",
     "run_type": "IL",
     "MS": "Completed"
   },
@@ -172111,6 +172111,51 @@
     "video": "https://www.youtube.com/watch?v=DalBgrBJoJA",
     "platform": "PC",
     "submitted": "30/08/2026",
+    "time": "0:35:362",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/mrpo528z",
+    "video": "https://youtu.be/dK75zXWhwO4?is=dZSjV3I_q1d2sBeT",
+    "platform": "Xbox Series X",
+    "submitted": "31/08/2026",
+    "time": "1:02:625",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/y64o84jm",
+    "video": "https://www.youtube.com/watch?v=wktUwO4_XM8",
+    "platform": "PC",
+    "submitted": "31/08/2026",
+    "time": "0:44:317",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/me5epq8m",
+    "video": "https://www.youtube.com/watch?v=wktUwO4_XM8",
+    "platform": "PC",
+    "submitted": "31/08/2026",
+    "time": "0:44:317",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/yogl5wjm",
+    "video": "https://www.youtube.com/watch?v=wktUwO4_XM8",
+    "platform": "PC",
+    "submitted": "31/08/2026",
+    "time": "0:44:317",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/ydxgo70z",
+    "video": "https://www.youtube.com/watch?v=f3OHbrBZ56Q",
+    "platform": "PC",
+    "submitted": "31/08/2026",
     "time": "0:35:362",
     "run_type": "IL",
     "MS": "Completed"
