@@ -154395,6 +154395,51 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/y84kp2dz",
+    "video": "https://www.bilibili.com/video/BV1vmYX6oEgC/?pop_share=1&spm_id_from=333.40164.0.0&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "12/09/2026",
+    "time": "1:52:297",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/yvkvx6om",
+    "video": "https://www.bilibili.com/video/BV1vmYX6oEgC/?pop_share=1&spm_id_from=333.40164.0.0&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "12/09/2026",
+    "time": "1:52:297",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/yjvw9ldy",
+    "video": "https://www.bilibili.com/video/BV1XXYX6pEVa/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "12/09/2026",
+    "time": "8:01:740",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/ylwlxknz",
+    "video": "https://www.bilibili.com/video/BV1XXYX6pEVa/?spm_id_from=333.1387.homepage.video_card.click&vd_source=d96e31957804e175eb6392f37e8d6144",
+    "platform": "PC",
+    "submitted": "12/09/2026",
+    "time": "8:01:740",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/m34kj0qz",
+    "video": "https://youtu.be/1wUBehGfnH4",
+    "platform": "PC",
+    "submitted": "12/09/2026",
+    "time": "6:03",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_ets/runs/zxg15qky",
     "video": "https://youtu.be/jrL0zRGsJw8",
     "platform": "PC",
@@ -179213,6 +179258,15 @@
     "platform": "PC",
     "submitted": "24/08/2026",
     "time": "26:52",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_freelancer/runs/yvkvexxm",
+    "video": "https://youtu.be/iMn6SADeq_E",
+    "platform": "PC",
+    "submitted": "13/09/2026",
+    "time": "26:57",
     "run_type": "FG",
     "MS": "N/A"
   }
