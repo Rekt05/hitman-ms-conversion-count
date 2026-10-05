@@ -64899,6 +64899,51 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/ylwp4kkz",
+    "video": "https://youtu.be/6fb5OEAesuM",
+    "platform": "PC",
+    "submitted": "27/09/2026",
+    "time": "0:38:002",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/me5n8o9m",
+    "video": "https://youtu.be/4J5MELDYPW4",
+    "platform": "PC",
+    "submitted": "27/09/2026",
+    "time": "0:38:122",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/z048r3jy",
+    "video": "https://youtu.be/536DVEdr2WU",
+    "platform": "PC",
+    "submitted": "28/09/2026",
+    "time": "1:03:900",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/z14vx5rz",
+    "video": "https://youtu.be/AASEhT8TtN4",
+    "platform": "PC",
+    "submitted": "29/09/2026",
+    "time": "0:43:590",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/mrp0nk7z",
+    "video": "https://youtu.be/AASEhT8TtN4",
+    "platform": "PC",
+    "submitted": "29/09/2026",
+    "time": "0:43:590",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/y84oe2nz",
     "video": "https://youtu.be/B0buanHesIM",
     "platform": "PC",
@@ -64915,5 +64960,23 @@
     "time": "0:24:772",
     "run_type": "IL",
     "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/y9qpq82z",
+    "video": "https://www.bilibili.com/video/BV1LCHv6jEVL",
+    "platform": "PC",
+    "submitted": "03/10/2026",
+    "time": "9:33",
+    "run_type": "FG",
+    "MS": "N/A"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_extensions/runs/z54l4pdm",
+    "video": "https://www.bilibili.com/video/BV1LCHv6jEVL",
+    "platform": "PC",
+    "submitted": "03/10/2026",
+    "time": "9:33",
+    "run_type": "FG",
+    "MS": "N/A"
   }
 ]
