@@ -5445,15 +5445,6 @@
     "MS": "Completed"
   },
   {
-    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/mkr7loxz",
-    "video": "https://youtu.be/h2v5kUE49pE?t=97",
-    "platform": "PC",
-    "submitted": "01/11/2025",
-    "time": "0:19:912",
-    "run_type": "IL",
-    "MS": "Completed"
-  },
-  {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/mkr7gn1z",
     "video": "https://www.youtube.com/watch?v=0q_EIokfa7k",
     "platform": "PC",
@@ -5949,11 +5940,56 @@
     "MS": "Completed"
   },
   {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/y248ojjz",
+    "video": "https://youtu.be/dkJhCrDBHl4?is=RXLDPEJgmXgyLyZ4",
+    "platform": "PS5",
+    "submitted": "10/10/2026",
+    "time": "1:48:420",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/y64j1oqm",
+    "video": "https://youtu.be/dkJhCrDBHl4?is=RXLDPEJgmXgyLyZ4",
+    "platform": "PS5",
+    "submitted": "10/10/2026",
+    "time": "1:48:420",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/y64jkppm",
     "video": "https://www.youtube.com/watch?v=J3-lKJMvYKc",
     "platform": "PC",
     "submitted": "10/10/2026",
     "time": "0:17:707",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/ydxo3nxz",
+    "video": "https://youtu.be/y72-D33X9Lw?t=20",
+    "platform": "PC",
+    "submitted": "11/10/2026",
+    "time": "0:31:860",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/zg09790m",
+    "video": "https://youtu.be/8K6fWwUBzyo?t=27",
+    "platform": "PC",
+    "submitted": "11/10/2026",
+    "time": "0:26:874",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/znl5rq7y",
+    "video": "https://youtu.be/iNUQqY_rOu8?t=26",
+    "platform": "PC",
+    "submitted": "11/10/2026",
+    "time": "0:20:049",
     "run_type": "IL",
     "MS": "Completed"
   }
