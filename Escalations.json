@@ -1558,7 +1558,7 @@
   },
   {
     "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/zxl964kz",
-    "video": "https://cutt.ly/nT6eLfs",
+    "video": "no video",
     "platform": "PC",
     "submitted": "30/11/2021",
     "time": "1:07:162",
@@ -5990,6 +5990,15 @@
     "platform": "PC",
     "submitted": "11/10/2026",
     "time": "0:20:049",
+    "run_type": "IL",
+    "MS": "Completed"
+  },
+  {
+    "weblink": "https://www.speedrun.com/hitman_woa_escalations/runs/yog59e5m",
+    "video": "https://youtu.be/KtBY125KpV0?t=29",
+    "platform": "PC",
+    "submitted": "12/10/2026",
+    "time": "0:21:065",
     "run_type": "IL",
     "MS": "Completed"
   }
